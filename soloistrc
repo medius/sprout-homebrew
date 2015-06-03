@@ -6,9 +6,27 @@ node_attributes:
     homebrew:
       casks:
         - google-chrome
+        - dropbox
+        - alfred
+        - skype
+        - iterm2
+        - spotify
+        - virtualbox
+        - sizeup
+        - slack
+        - trello-x
+        - karabiner
+        - seil
+        - flux
+        - gimp
+        - nvalt
+        - firefox
       formulae:
-        - tor
-        - name: hub
-          head: true
+        - rbenv
+        - git-flow
+        - mysql
+        - memcached
+        - curl
+        - macvim
       launchctl:
         tor: load
