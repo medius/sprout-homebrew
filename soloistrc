@@ -29,5 +29,5 @@ node_attributes:
         - git-flow
         - mysql
         - memcached
-        - curl
+        - httpie
         - fortune
