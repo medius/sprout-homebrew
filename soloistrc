@@ -11,17 +11,13 @@ node_attributes:
         - skype
         - iterm2
         - spotify
-        - virtualbox
         - sizeup
         - slack
-        - trello-x
         - karabiner
         - seil
         - flux
-        - gimp
         - nvalt
         - firefox
-        - google-photos-backup
         - horndis
       formulae:
         - rbenv
@@ -30,4 +26,5 @@ node_attributes:
         - mysql
         - memcached
         - httpie
+        - imagemagick
         - fortune

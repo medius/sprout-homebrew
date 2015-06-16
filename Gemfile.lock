@@ -119,3 +119,6 @@ DEPENDENCIES
   plist
   rspec
   soloist
+
+BUNDLED WITH
+   1.10.3
