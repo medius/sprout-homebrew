@@ -27,4 +27,5 @@ node_attributes:
         - memcached
         - httpie
         - imagemagick
+        - siege
         - fortune
