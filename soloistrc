@@ -30,4 +30,5 @@ node_attributes:
         - mysql
         - memcached
         - httpie
+        - siege
         - fortune
