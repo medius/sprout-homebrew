@@ -31,4 +31,5 @@ node_attributes:
         - memcached
         - httpie
         - siege
+        - gpg
         - fortune
