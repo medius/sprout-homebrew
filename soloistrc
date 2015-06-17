@@ -28,4 +28,5 @@ node_attributes:
         - httpie
         - imagemagick
         - siege
+        - gpg
         - fortune
