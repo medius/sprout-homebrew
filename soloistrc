@@ -33,3 +33,4 @@ node_attributes:
         - siege
         - gpg
         - fortune
+        - ncdu
