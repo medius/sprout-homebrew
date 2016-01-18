@@ -34,3 +34,4 @@ node_attributes:
         - gpg
         - fortune
         - redis
+        - terminal-notifier
