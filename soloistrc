@@ -33,5 +33,6 @@ node_attributes:
         - siege
         - gpg
         - fortune
+        - ncdu
         - redis
         - terminal-notifier
